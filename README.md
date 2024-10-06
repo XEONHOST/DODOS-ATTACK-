@@ -17,7 +17,7 @@ pkg install figlet
 
 pkg install git
 
-git clone https://github.com/Projeckerror/DDOS-ATTACK 
+git clone https://github.com/XEONHOST/DODOS-ATTACK- 
 
 cd DDOS-ATTACK
 
